@@ -6,7 +6,7 @@
 I'm an 18-year-old **computer engineering student** with a passion for **full-stack web development** and **DSA**. I’m currently enhancing my skills and building projects to grow as a developer.
 
 ### 🚀 **What I’m Learning:**
-- **C++** for DSA and OOP
+- **C++** for DSA
 - **JavaScript, React, Node.js** (Full-Stack Development)
 - Exploring **DevOps** and open-source contributions
 
