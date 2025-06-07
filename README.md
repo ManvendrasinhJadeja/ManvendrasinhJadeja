@@ -1,9 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Manvendrasinh Jadeja!</h1>
-
-**Welcome to my GitHub profile!**
+<h1 align="center">Hi 👋, I'm Manvendrasinh Jadeja!  <br/>Welcome to my GitHub profile!</h1>
 
 
 ---
