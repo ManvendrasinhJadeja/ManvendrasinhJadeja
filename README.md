@@ -57,9 +57,8 @@
 ###
 
 <br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ManvendrasinhJadeja&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.vercel.app?user=ManvendrasinhJadeja&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
