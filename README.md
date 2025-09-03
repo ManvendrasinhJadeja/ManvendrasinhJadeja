@@ -8,7 +8,6 @@
 
 <img src="https://raw.githubusercontent.com/ManvendrasinhJadeja/ManvendrasinhJadeja/output/snake.svg" alt="Snake animation" />
 <div/>
-###
 
 <img align="right" height="230" src="https://media1.tenor.com/m/bC46isnYvywAAAAd/coding.gif"  />
 
