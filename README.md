@@ -23,8 +23,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="mongodb logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="70" alt="css logo"  />
